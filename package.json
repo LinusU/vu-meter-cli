@@ -1,0 +1,19 @@
+{
+  "name": "vu-meter-cli",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/vu-meter-cli",
+  "bin": {
+    "vu-meter": "index.js"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "dependencies": {
+    "log-update": "^1.0.2",
+    "vu-meter": "^0.1.0"
+  },
+  "devDependencies": {
+    "standard": "^7.0.1"
+  }
+}
