@@ -10,6 +10,7 @@
     "test": "standard"
   },
   "dependencies": {
+    "line-in": "^0.1.1",
     "log-update": "^1.0.2",
     "vu-meter": "^0.1.0"
   },
